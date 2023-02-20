@@ -1,3 +1,5 @@
+// Problem solving 31-45 from FreeCodeCamp
+
 // Set someAdjective to a string of at least 3 characters and append it to myStr using the += operator.
 const someAdjective = "developer";
 let myStr = "I am a part time ";
